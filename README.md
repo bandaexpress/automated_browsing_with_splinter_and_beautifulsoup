@@ -4,6 +4,7 @@ Module 11 Assignment from Columbia University Data Analytics Bootcamp
 This repo containts two technical products. 
 
 1: Scrape titles and preview text from Mars news articles.
+
 2: Scrape and analyze Mars weather data, which exists in a table.
 
 Analyzing the dataset by using Pandas functions to answer the following questions:
